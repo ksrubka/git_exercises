@@ -3,3 +3,4 @@ changes changes
 changes
 merge
 feature2
+feature1
